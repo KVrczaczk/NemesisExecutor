@@ -1,0 +1,16 @@
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\bin\Debug\MialasExecutor.exe.config
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\bin\Debug\MialasExecutor.exe
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\bin\Debug\MialasExecutor.pdb
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\bin\Debug\Guna.UI2.dll
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\obj\Debug\MialasExecutor.csproj.AssemblyReference.cache
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\obj\Debug\MialasExecutor.csproj.SuggestedBindingRedirects.cache
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\obj\Debug\MialasExecutor.Form1.resources
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\obj\Debug\MialasExecutor.Properties.Resources.resources
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\obj\Debug\MialasExecutor.csproj.GenerateResource.cache
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\obj\Debug\MialasExecutor.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\obj\Debug\MialasExecutor.csproj.CopyComplete
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\obj\Debug\MialasExecutor.exe
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\obj\Debug\MialasExecutor.pdb
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\obj\Debug\MialasExecutor.UserControl1.resources
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\bin\Debug\FastColoredTextBox.dll
+C:\Users\dawid\source\repos\MialasExecutor\MialasExecutor\bin\Debug\WeAreDevs_API.dll
